@@ -5,3 +5,4 @@ This project is designed as part of a Git Basics assignment to practice fundamen
 The project focuses on building hands-on experience with essential Git commands such as `git init`, `git add`, `git commit`, `git branch`, and `git push`. Additionally, a `.gitignore` file is used to prevent unnecessary files from being tracked, which is a common best practice in professional workflows.
 
 By completing this project, the user becomes familiar with both local version control and remote repository management using GitHub.
+ Thank You
